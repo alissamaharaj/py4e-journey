@@ -11,8 +11,8 @@ All material will be organzied into chapter folders:
 
 | Chapter | Topic | Status |
 | :--- | :--- | :--- |
-| 01 | Installing Python | ⌛ In progress |
-| 02 | Why Program? | ❌ Not started |
+| 01 | Installing Python | ✅ Completed |
+| 02 | Why Program? | ⌛ In progress |
 | 03 | Variables, expressions, and statements | ❌ Not started |
 | 04 | Conditional Execution | ❌ Not started |
 | 05 | Functions | ❌ Not started |
