@@ -1,0 +1,1 @@
+*2026-09-11: Installed python and completed the first exercise! I'll admit, though the instructions are straight-forward it did take me multiple tries to complete everything. But figuring it out is interesting.
