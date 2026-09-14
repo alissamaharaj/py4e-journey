@@ -16,8 +16,8 @@ Note: All projects will be in their own separate repositories.
 | 01 | Installing Python | ✅ Completed |
 | 02 | Why Program? | ✅ Completed |
 | 03 | Variables, expressions, and statements | ✅ Completed |
-| 04 | Conditional Execution | ⌛ In progress |
-| 05 | Functions | ❌ Not started |
+| 04 | Conditional Execution | ✅ Completed |
+| 05 | Functions | ⌛ In progress |
 | 06 | Loops and Iterations | ❌ Not started |
 | - | Project 1 - Industrial Alarm Logic Engine | ❌ Not started |
 | 07 | Strings | ❌ Not started |
