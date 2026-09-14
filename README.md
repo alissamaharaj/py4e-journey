@@ -7,6 +7,8 @@ All material will be organzied into chapter folders:
 * 'chapter-XX/' - Code examples, notes, and miscellanea for each chapter.
 * 'chapter-XX/exercises' - Working solutions for each exercise.
 
+Note: All projects will be in their own separate repositories.
+
 ## 📊 Progress Tracker
 
 | Chapter | Topic | Status |
