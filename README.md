@@ -16,6 +16,7 @@ All material will be organzied into chapter folders:
 | 03 | Variables, expressions, and statements | ⌛ In progress |
 | 04 | Conditional Execution | ❌ Not started |
 | 05 | Functions | ❌ Not started |
+| - | Project 1 - Industrial Alarm Logic Engine | ❌ Not started |
 | 06 | Loops and Iterations | ❌ Not started |
 | 07 | Strings | ❌ Not started |
 | 08 | Files | ❌ Not started |
