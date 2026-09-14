@@ -1,1 +1,1 @@
-*14-09-26:
+*14-09-26: Completed chapter 4 and I'm very proud of myself. It's starting to get a little challenging, which makes it very fun for me. The first two exercises were simple, but exercise 3.3 really threw some curveballs my way haha. Remembered to account for invalid non-'float' inputs but forgot to account for numerical inputs outside the range! My first "What the heck could possibly be wrong with my code???" experience. Also completed the short quiz; once again got one incorrect, but it was easy to see where I went wrong. All in all, a good session. 
