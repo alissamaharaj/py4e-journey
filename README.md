@@ -17,8 +17,8 @@ Note: All projects will be in their own separate repositories.
 | 02 | Why Program? | ✅ Completed |
 | 03 | Variables, expressions, and statements | ✅ Completed |
 | 04 | Conditional Execution | ✅ Completed |
-| 05 | Functions | ⌛ In progress |
-| 06 | Loops and Iterations | ❌ Not started |
+| 05 | Functions | ✅ Completed |
+| 06 | Loops and Iterations | ⌛ In progress |
 | - | Project 1 - Industrial Alarm Logic Engine | ❌ Not started |
 | 07 | Strings | ❌ Not started |
 | 08 | Files | ❌ Not started |
