@@ -17,22 +17,22 @@ Note: All projects will be in their own separate repositories.
 | 02 | Why Program? | ✅ Completed |
 | 03 | Variables, expressions, and statements | ✅ Completed |
 | 04 | Conditional Execution | ✅ Completed |
-| 05 | Functions | ⌛ In progress |
-| 06 | Loops and Iterations | ❌ Not started |
-| - | Project 1 - Industrial Alarm Logic Engine | ❌ Not started |
+| 05 | Functions | ✅ Completed |
+| 06 | Loops and Iterations | ⌛ In progress |
+| - | Project 1 - Alarm & Safety Logic Simulator | ❌ Not started |
 | 07 | Strings | ❌ Not started |
 | 08 | Files | ❌ Not started |
 | 09 | Lists | ❌ Not started |
 | 10 | Dictionaries | ❌ Not started |
-| - | Project 2 - Technical Spare-Parts Filter | ❌ Not started |
+| - | Project 2 - Component Data Filtering & Query Tool | ❌ Not started |
 | 11 | Tuples | ❌ Not started |
 | 12 | Regular Expressions | ❌ Not started |
 | 13 | Network Programming | ❌ Not started |
 | 14 | Using Web Services | ❌ Not started |
 | 15 | Object-Oriented Programming | ❌ Not started |
-| - | Project 3 - CMMS Engine | ❌ Not started |
+| - | Project 3 - Asset Lifecycle Scheduling System | ❌ Not started |
 | 16 | Databases | ❌ Not started |
 | 17 | Data Visualization | ❌ Not started |
-| - | Project 4 - Signal Conditioning Simulator | ❌ Not started |
+| - | Project 4 - Signal Processing & Noise Reduction Simulator | ❌ Not started |
 
 *Status Options: ❌ Not started | ⌛ In Progress | ✅ Completed*
