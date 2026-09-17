@@ -18,8 +18,8 @@ Note: All projects will be in their own separate repositories.
 | 03 | Variables, expressions, and statements | ✅ Completed |
 | 04 | Conditional Execution | ✅ Completed |
 | 05 | Functions | ✅ Completed |
-| 06 | Loops and Iterations | ⌛ In progress |
-| - | Project 1 - Alarm & Safety Logic Simulator | ❌ Not started |
+| 06 | Loops and Iterations | ✅ Completed |
+| - | Project 1 - Alarm & Safety Logic Simulator | ⌛ In progress |
 | 07 | Strings | ❌ Not started |
 | 08 | Files | ❌ Not started |
 | 09 | Lists | ❌ Not started |
