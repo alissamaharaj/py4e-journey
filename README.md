@@ -19,7 +19,7 @@ Note: All projects will be in their own separate repositories.
 | 04 | Conditional Execution | ✅ Completed |
 | 05 | Functions | ✅ Completed |
 | 06 | Loops and Iterations | ✅ Completed |
-| - | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator | ✅ Completed |
+| - | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 | 07 | Strings | ⌛ In progress |
 | 08 | Files | ❌ Not started |
 | 09 | Lists | ❌ Not started |
