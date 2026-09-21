@@ -1,1 +1,1 @@
-*21-09-26:
+*21-09-26: Finished the chapter, including the exercise and the quiz. As he said, this is a setup chapter, so it was fairly straightforward. It took a second to get used to the counting conventions, but after that, I'm okay with everything so far. Coming back to lectures after a project is nice getting back to learning new things.
