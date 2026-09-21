@@ -20,8 +20,8 @@ Note: All projects will be in their own separate repositories.
 | 05 | Functions | ✅ Completed |
 | 06 | Loops and Iterations | ✅ Completed |
 | - (Project 1) | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
-| 07 | Strings | ⌛ In progress |
-| 08 | Files | ❌ Not started |
+| 07 | Strings | ✅ Completed |
+| 08 | Files | ⌛ In progress |
 | 09 | Lists | ❌ Not started |
 | 10 | Dictionaries | ❌ Not started |
 | 11 | Tuples | ❌ Not started |
