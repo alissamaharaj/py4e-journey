@@ -1,0 +1,1 @@
+*24-09-26: Completed the exercises and quiz. I really enjoyed these exercises. I got a better understanding of the `split()` function and using indexing to cherry-pick data that were introduced in the exercises for the previous chapter. I especially enjoyed exercise 8_04 and the Shakespeare inclusion. 
