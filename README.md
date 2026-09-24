@@ -22,8 +22,8 @@ Note: All projects will be in their own separate repositories.
 | - (Project 1) | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 | [07](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-07) | Strings | ✅ Completed |
 | [08](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-08) | Files | ✅ Completed |
-| 09 | Lists | ⌛ In progress |
-| 10 | Dictionaries | ❌ Not started |
+| [09](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-09) | Lists | ✅ Completed |
+| 10 | Dictionaries | ⌛ In progress |
 | 11 | Tuples | ❌ Not started |
 | 12 | Regular Expressions | ❌ Not started |
 | 13 | Network Programming | ❌ Not started |
