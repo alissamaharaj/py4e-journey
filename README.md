@@ -13,15 +13,15 @@ Note: All projects will be in their own separate repositories.
 
 | Chapter | Topic | Status |
 | :--- | :--- | :--- |
-| 01 | Installing Python | ✅ Completed |
-| 02 | Why Program? | ✅ Completed |
-| 03 | Variables, expressions, and statements | ✅ Completed |
-| 04 | Conditional Execution | ✅ Completed |
-| 05 | Functions | ✅ Completed |
-| 06 | Loops and Iterations | ✅ Completed |
+| [01](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-01) | Installing Python | ✅ Completed |
+| [02](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-02) | Why Program? | ✅ Completed |
+| [03](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-03) | Variables, expressions, and statements | ✅ Completed |
+| [04](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-04) | Conditional Execution | ✅ Completed |
+| [05](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-05) | Functions | ✅ Completed |
+| [06](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-06) | Loops and Iterations | ✅ Completed |
 | - (Project 1) | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
-| 07 | Strings | ✅ Completed |
-| 08 | Files | ✅ Completed |
+| [07](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-07) | Strings | ✅ Completed |
+| [08](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-08) | Files | ✅ Completed |
 | 09 | Lists | ⌛ In progress |
 | 10 | Dictionaries | ❌ Not started |
 | 11 | Tuples | ❌ Not started |
