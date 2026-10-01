@@ -23,8 +23,8 @@ Note: All projects will be in their own separate repositories.
 | [07](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-07) | Strings | ✅ Completed |
 | [08](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-08) | Files | ✅ Completed |
 | [09](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-09) | Lists | ✅ Completed |
-| 10 | Dictionaries | ⌛ In progress |
-| 11 | Tuples | ❌ Not started |
+| [10](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-10) | Dictionaries | ✅ Completed |
+| 11 | Tuples | ⌛ In progress |
 | 12 | Regular Expressions | ❌ Not started |
 | 13 | Network Programming | ❌ Not started |
 | 14 | Using Web Services | ❌ Not started |
