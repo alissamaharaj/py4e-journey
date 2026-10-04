@@ -1,1 +1,1 @@
-*04-10-26:
+*04-10-26: Completed the exercises and quiz for this chapter. My momentum has slowed a bit with the course this week, as I was on vacation and had other classes in person, and today is my uncle's birthday so we have plans that I need to get to right now lol. Having all the materials fully online that I can view from my phone has been really valuable; I watched the lecture videos for this chapter while on the go and was pleasantly surprised by how well I grasped this topic with my attention so split this week. This was a nice, simple one; I enjoyed it.
