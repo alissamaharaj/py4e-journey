@@ -1,1 +1,1 @@
-*01-10-26: 
+*01-10-26: Completed the exercises and the quiz. Feeling a bit slow in understanding this topic, but it could be because I watched the lectures while on vacation and couldn't dedicate 100% of my attention at the time. Still managed to complete everything, but had to attempt the quiz more than once to get everything accurate, as well as debug my exercise code multiple times. Will practice more and go through my exercise code to better grasp the concepts before moving on to the next chapter.
