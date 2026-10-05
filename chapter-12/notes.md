@@ -1,0 +1,1 @@
+*05-10-26: Completed the exercise and quiz. This is definitely my favourite chapter so far; the potential applications of regular expressions is fascinating to me. Especially love all the creative ways you can condense code. I think I'm really going to enjoy using this in future applications.
