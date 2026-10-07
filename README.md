@@ -29,8 +29,8 @@ Note: All projects will be in their own separate repositories.
 | 13 | Network Programming | ⌛ In progress |
 | 14 | Using Web Services | ❌ Not started |
 | 15 | Object-Oriented Programming | ❌ Not started |
-| - | Project 2 - Component & Asset Management System | ❌ Not started |
 | 16 | Databases | ❌ Not started |
+| - | Project 2 - Component & Asset Management System | ❌ Not started |
 | 17 | Data Visualization | ❌ Not started |
 | - | Project 3 - Signal Processing & Data Storage Simulator | ❌ Not started |
 
