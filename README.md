@@ -25,8 +25,8 @@ Note: All projects will be in their own separate repositories.
 | [09](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-09) | Lists | ✅ Completed |
 | [10](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-10) | Dictionaries | ✅ Completed |
 | [11](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-11) | Tuples | ✅ Completed |
-| 12 | Regular Expressions | ⌛ In progress |
-| 13 | Network Programming | ❌ Not started |
+| [12](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-12) | Regular Expressions | ✅ Completed |
+| 13 | Network Programming | ⌛ In progress |
 | 14 | Using Web Services | ❌ Not started |
 | 15 | Object-Oriented Programming | ❌ Not started |
 | - | Project 2 - Component & Asset Management System | ❌ Not started |
