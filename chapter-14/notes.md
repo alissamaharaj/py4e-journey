@@ -1,0 +1,1 @@
+*11-10-26: Watched a few of the lecture videos and went through the first couple worked examples. Already having a better time with this chapter than the previous one; the structure of XML and JSON is very interesting to me. Still not too happy that the worked examples code is already written and just used for sample execution, but at least I'm understanding it well enough.
