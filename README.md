@@ -1,9 +1,9 @@
 # 🐍 My Python for Everybody Journey
 
-In this repository you'll find my exercises, solutions, struggles, notes, and everything in between, documenting my Python for Everybody learning journey.
+In this repository, you'll find my exercises, solutions, struggles, notes, and everything in between, documenting my Python for Everybody learning journey.
 
 ## 📂 Repository Structure
-All material will be organzied into chapter folders:
+All material will be organized into chapter folders:
 * 'chapter-XX/' - Code examples, notes, and miscellanea for each chapter.
 * 'chapter-XX/exercises' - Working solutions for each exercise.
 
@@ -27,8 +27,8 @@ Note: All projects will be in their own separate repositories.
 | [11](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-11) | Tuples | ✅ Completed |
 | [12](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-12) | Regular Expressions | ✅ Completed |
 | [13](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-13) | Network Programming | ✅ Completed |
-| [14](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-14) | Using Web Services | ⌛ In progress |
-| 15 | Object-Oriented Programming | ❌ Not started |
+| [14](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-14) | Using Web Services | ✅ Completed |
+| 15 | Object-Oriented Programming | ⌛ In progress |
 | 16 | Databases | ❌ Not started |
 | - | Project 2 - Component & Asset Management System | ❌ Not started |
 | 17 | Data Visualization | ❌ Not started |
