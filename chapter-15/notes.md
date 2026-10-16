@@ -1,0 +1,1 @@
+*16-10-26: Completed the chapter. It's a really interesting one, and I'm excited to explore OOP further in my studies. I wish there were some exercises, though, but I got through the quiz very easily. On to Databases now. 
