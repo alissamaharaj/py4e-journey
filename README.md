@@ -28,8 +28,8 @@ Note: All projects will be in their own separate repositories.
 | [12](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-12) | Regular Expressions | ✅ Completed |
 | [13](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-13) | Network Programming | ✅ Completed |
 | [14](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-14) | Using Web Services | ✅ Completed |
-| 15 | Object-Oriented Programming | ⌛ In progress |
-| 16 | Databases | ❌ Not started |
+| [15](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-15) | Object-Oriented Programming | ✅ Completed |
+| 16 | Databases | ⌛ In progress |
 | - | Project 2 - Component & Asset Management System | ❌ Not started |
 | 17 | Data Visualization | ❌ Not started |
 | - | Project 3 - Signal Processing & Data Storage Simulator | ❌ Not started |
