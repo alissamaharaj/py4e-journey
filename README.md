@@ -30,8 +30,8 @@ Note: All projects will be in their own separate repositories.
 | [14](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-14) | Using Web Services | ✅ Completed |
 | [15](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-15) | Object-Oriented Programming | ✅ Completed |
 | [16](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-16) | Databases | ✅ Completed |
-| - | Project 2 - Component & Asset Management System | ⌛ In progress |
-| 17 | Data Visualization | ❌ Not started |
-| - | Project 3 - Signal Processing & Data Storage Simulator | ❌ Not started |
+| 17 | Data Visualization | ⌛ In progress |
+| Project 2 | (untitled) - Component & Asset Management System | ❌ Not started |
+| Project 3 | (untitled) - Signal Processing & Data Storage Simulator | ❌ Not started |
 
 *Status Options: ❌ Not started | ⌛ In Progress | ✅ Completed*
