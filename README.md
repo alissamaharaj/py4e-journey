@@ -19,7 +19,7 @@ Note: All projects will be in their own separate repositories.
 | [04](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-04) | Conditional Execution | ✅ Completed |
 | [05](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-05) | Functions | ✅ Completed |
 | [06](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-06) | Loops and Iterations | ✅ Completed |
-| - (Project 1) | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
+| Project 1 | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) - Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 | [07](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-07) | Strings | ✅ Completed |
 | [08](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-08) | Files | ✅ Completed |
 | [09](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-09) | Lists | ✅ Completed |
@@ -29,8 +29,8 @@ Note: All projects will be in their own separate repositories.
 | [13](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-13) | Network Programming | ✅ Completed |
 | [14](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-14) | Using Web Services | ✅ Completed |
 | [15](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-15) | Object-Oriented Programming | ✅ Completed |
-| [16](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-16) | Databases | ⌛ In progress |
-| - | Project 2 - Component & Asset Management System | ❌ Not started |
+| [16](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-16) | Databases | ✅ Completed |
+| - | Project 2 - Component & Asset Management System | ⌛ In progress |
 | 17 | Data Visualization | ❌ Not started |
 | - | Project 3 - Signal Processing & Data Storage Simulator | ❌ Not started |
 
