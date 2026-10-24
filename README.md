@@ -31,7 +31,7 @@ Note: All projects will be in their own separate repositories.
 | [15](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-15) | Object-Oriented Programming | ✅ Completed |
 | [16](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-16) | Databases | ✅ Completed |
 | [17](https://github.com/alissamaharaj/py4e-journey/tree/main/chapter-17) | Data Visualization | ✅ Completed |
-| Project 2 | (untitled) - Component & Asset Management System | ⌛ In progress |
+| Project 2 | [due-diligence](https://github.com/alissamaharaj/due-diligence) - Component & Asset Management System ⌛ | ⌛ In progress |
 | Project 3 | (untitled) - Signal Processing & Data Storage Simulator | ❌ Not started |
 
 *Status Options: ❌ Not started | ⌛ In Progress | ✅ Completed*
